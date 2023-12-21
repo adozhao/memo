@@ -1,0 +1,21 @@
+{
+    "plugin_name": {
+        "message":"备忘录",
+        "description":""
+    },
+    "plugin_description":{
+        "message": "一款极简的备忘录"
+    },
+    "btn_add": {
+        "message": "添加",
+        "description":""
+    },
+    "btn_finish": {
+        "message": "完成",
+        "description":""
+    },
+    "input_placeholder": {
+        "message": "请输入内容",
+        "description":""
+    }
+}

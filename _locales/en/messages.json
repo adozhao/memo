@@ -1,0 +1,21 @@
+{
+    "plugin_name": {
+        "message":"Memo",
+        "description":""
+    },
+    "plugin_description":{
+        "message": "a Minimal to do list"
+    },
+    "btn_add": {
+        "message": "add",
+        "description":""
+    },
+    "btn_finish": {
+        "message": "finish",
+        "description":""
+    },
+    "input_placeholder": {
+        "message": "What to do",
+        "description":""
+    }
+}
