@@ -5,4 +5,4 @@
   打开chrome扩展插件的开发者模式，直接将 `memo.crx` 文件拖拽到扩展程序区域即可完成安装
   
 * #### chrome官方应用商店安装：<br> 
-  [安装链接](https://chrome.google.com/webstore/detail/cmdmgfbahfgbdkociijmabndjclidgam)
+  [链接](https://chrome.google.com/webstore/detail/cmdmgfbahfgbdkociijmabndjclidgam)
