@@ -15,7 +15,7 @@
         "description":""
     },
     "input_placeholder": {
-        "message": "请输入内容",
+        "message": "代办事项",
         "description":""
     }
 }
